@@ -5,5 +5,5 @@ module.exports = {
         "filename": "client.js"
     },
     "devtool": "source-map",
-    "mode": "development"
+    "mode": "production"
 };
