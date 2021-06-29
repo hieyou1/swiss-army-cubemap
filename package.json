@@ -1,0 +1,22 @@
+{
+  "name": "swiss-army-cubemap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "filereader-ponyfill": "^0.1.0",
+    "image-js": "^0.31.4",
+    "jszip": "^3.6.0",
+    "promise-file-reader": "^1.0.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.7.2"
+  }
+}
