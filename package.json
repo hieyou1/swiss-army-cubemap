@@ -13,7 +13,7 @@
     "express": "^4.17.1",
     "filereader-ponyfill": "^0.1.0",
     "image-js": "^0.33.0",
-    "jszip": "^3.7.0",
+    "jszip": "^3.10.1",
     "promise-file-reader": "^1.0.3"
   },
   "devDependencies": {
